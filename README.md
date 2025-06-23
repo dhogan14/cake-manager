@@ -10,16 +10,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -54,7 +46,7 @@ Below is an example of how you can instruct your audience on installing and sett
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dhogan14/cake-manager
    ```
 2. Run the command
     ```sh
@@ -134,6 +126,6 @@ Response(s):
 
 Donal Hogan - Software Engineer
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/dhogan14/cake-manager](https://github.com/dhogan14/cake-manager)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
