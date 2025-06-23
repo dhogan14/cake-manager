@@ -17,6 +17,7 @@ public class CakeManagerService {
 
     public List<CakeDto> fetchCakeList(){
         Session session = HibernateUtil.getSessionFactory().openSession();
+        System.out.println("Fetching cake entries");
         List<CakeDto> cakesDTO = cakeMapper.cakeEntityListToDtoList(session.createCriteria(CakeEntity.class).list());
         session.close();
         return cakesDTO;
